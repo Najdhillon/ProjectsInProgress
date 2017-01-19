@@ -9,4 +9,41 @@ body{
 .tophead {
   color: white;
   background: #2C4251;
+  font-family: 'Roboto'; sans-serif;
+  padding-bottom: 10px;
+}
+
+#gutitle{
+  
+  letter-spacing: 6px;
+}
+
+.sectitle {
+  background-color: #D16666;
+  padding: 20px;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.facts {
+  font-family: Roboto; san-serif;
+  font-size: 20px;
+}
+
+#box1 {
+  
+  background-color: #B6C649;
+  margin-bottom:0px;
+}
+
+.quotebox{
+  background-color: #ffffff;
+  padding:10px
+}
+
+.footer{
+  background-color: #2C4251;
+  color:white;
+  padding: 10px;
+  font-weight:bold;
 }
